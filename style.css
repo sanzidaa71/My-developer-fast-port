@@ -9,6 +9,7 @@ body {
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 
 h1{
@@ -37,4 +38,8 @@ h1{
     background-repeat: no-repeat;
 }
 
+.dream-big{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
